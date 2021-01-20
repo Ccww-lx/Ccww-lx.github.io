@@ -106,7 +106,7 @@
 ![TCP三次握手](/data/network/三次握手.png)
 
 **简单示意图：**
-![TCP三次握手](/data/network/三次握手示意图png)
+![TCP三次握手](/data/network/三次握手示意图.png)
 
 - 客户端–发送带有 SYN 标志的数据包–一次握手–服务端
 - 服务端–发送带有 SYN/ACK 标志的数据包–二次握手–客户端
